@@ -1,3 +1,5 @@
+/* Adam White, Joseph Holland, Teddy Ng and Miroslaw Blicharz */
+
     LIST    p=16f84a        ;tell assembler what chip we are using
     include "p16f84a.inc"        ;include the defaults for the chip
     __config _CP_OFF & _WDT_OFF & _XT_OSC ;sets the configuration settings
