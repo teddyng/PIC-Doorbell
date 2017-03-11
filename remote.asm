@@ -1,3 +1,9 @@
+/* Adam White, Joseph Holland, Teddy Ng and Miroslaw Blicharz */
+
+/* Incorporating MQTT protocol with a 433Mhz RF receiver. 
+   Used for the doorbell project 
+*/
+ 
 #include <RCSwitch.h> //this connects to the library of the RC switch used for the transmitter
 
 RCSwitch mySwitch = RCSwitch(); //initialising new RC switch
